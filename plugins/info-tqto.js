@@ -47,22 +47,22 @@ https://github.com/NevtBotz
 https://github.com/LitRHap
 *❉ Rlxfly:*
 https://github.com/Rlxfly
-*❉ Zenss:*
-https://github.com/RaaaGH
+*❉ Ananda DEV:*
+https://github.com/Bellfroutcs
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ Zenss:*
-https://github.com/RaaaGH
+*❉ Ananda DEV:*
+https://github.com/Bellfroutcs
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ Johannes:*
-*❉ Zenss*
+*❉ NdaDev*
 *❉ Rlxfly:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/inizenscuy",
+    mediaUrl: "https://Instagram.com/ananda.alif.rizky",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/inizenscuy", 
+    description: "https://Instagram.com/ananda.alif.rizky", 
     title: 'Albedo-MultiDevice',
     body: wm,
     thumbnail: thumb,
