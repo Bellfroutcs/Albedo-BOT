@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix }) => {
       text: `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
-│ • *Three:* [${global.ppulsa}]
+│ • *Axis:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
